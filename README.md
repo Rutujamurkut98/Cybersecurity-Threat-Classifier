@@ -22,6 +22,12 @@
 
 </div>
 
+<div align="center">
+
+[![LIVE APP](https://img.shields.io/badge/LIVE%20DEMO-OPEN%20APP-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://soc-threat-classifier.vercel.app/)
+
+</div>
+
 ---
 
 ---
